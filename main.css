@@ -1,0 +1,19 @@
+
+*{
+    font-family: cursive;
+}
+#mainNavbar .navbar-brand{
+    color: brown;
+    font-weight: 500;
+}
+#mainNavbar .nav-link{
+    color: white;
+}
+#mainNavbar .nav-link:hover{
+    color: brown;
+    border-bottom: 1px solid brown;
+}
+.navbar.scrolled{
+    background: rgb(0, 0, 0);
+    transition: 1s;
+}
